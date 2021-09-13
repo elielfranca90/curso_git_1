@@ -1,0 +1,3 @@
+[submodule "curso_git_1_submodulo"]
+	path = curso_git_1_submodulo
+	url = https://github.com/elielfranca90/curso_git_1_submodulo.git
